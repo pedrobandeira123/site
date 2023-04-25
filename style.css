@@ -1,0 +1,48 @@
+.cabeçalho{
+    background-color: #468295;
+}
+
+.corpo{
+    background-color: white;   
+}
+
+
+.imagem{
+width: 5%;
+}
+
+.cabeçalho-item{
+    display: inline-block;
+    margin: 0 16px
+}
+
+.titulo{
+    color:  black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40pt;
+}
+
+[title|="SUB"] {
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20pt;
+}
+
+[title|="CEP" ] {
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15pt;
+}
+
+
+[title|="ANIMAIS"] {
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15pt;
+}
+
+[title|="H2"]{
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30pt;
+}
